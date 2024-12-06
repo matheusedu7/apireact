@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências do Node.js
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
